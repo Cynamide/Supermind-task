@@ -83,7 +83,7 @@ The model would perform a lot better if the **training size** is increased (more
 The LDA approach is an **easier** way of finding new crypto words.
 The unsupervised approach guarantees recognition of **newer** crypto **words** (eg., new coins) as more data becomes available every day.
 
-### Future scop:
+### Future scope:
 Using simple comparisons to get keywords from text conversation and keyword lists can be a **very time consuming** task as the size of the list increases. One solution for that is using a pre-trained **Bart model** from hugging face and **finetuning** it with our keyword list to output these keywords **directly**.
 
 
