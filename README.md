@@ -79,7 +79,7 @@ The extracted keywords are:
 
 The model would perform a lot better if the **training size** is increased (more documents are added) and extensive **experimentation** with its **hyperparameters**.
 
-### Advantages
+### Advantages:
 The LDA approach is an **easier** way of finding new crypto words.
 The unsupervised approach guarantees recognition of **newer** crypto **words** (eg., new coins) as more data becomes available every day.
 
